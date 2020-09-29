@@ -46,7 +46,7 @@ terraform -version
 
 -----------------------------------------------
 
-Class1 :
+Day1 :
   
   Agenda ==> Automatic provisioning of Ghost platform using Docker containers in Terraform
 
